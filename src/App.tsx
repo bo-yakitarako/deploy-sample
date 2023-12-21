@@ -6,6 +6,7 @@ export const App: React.FC = () => {
     <Wrapper>
       <h1>こんにちは, 世界</h1>
       <p>最強のサンプルサイトがお出ましだぜ</p>
+      <p>Cloudflare Pagesにデプロイしてるよ</p>
     </Wrapper>
   );
 };
